@@ -41,7 +41,7 @@ Stop the Spring Boot server once testing is complete.
 
 
 ## Program 
-
+```
 simple-web-server/
 ├── src/
 │   └── main/
@@ -122,14 +122,18 @@ public class HelloController {
     }
 }
 
-
+```
 ### application.properties:
 
  server.port=8081
 
 
+### Output:
+<img width="1534" height="882" alt="image" src="https://github.com/user-attachments/assets/8d165e78-1269-4e29-94c5-49407e5e5089" />
+
+Thus, The Program to develop a Simple Web Server using Spring Boot that can handle basic HTTP requests and return appropriate responses is executed successfully.
 
 
-Output:
+
 
 
